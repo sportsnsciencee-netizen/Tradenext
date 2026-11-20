@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TradeNext</string>
+    <string name="app_tagline">Options Strategy &amp; Payoff Lab</string>
+    <string name="disclaimer_text">Simulated Black-Scholes option pricing and payoff curves are for educational and analytical modeling only.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "TradeNext",
+  "description": "TradeNext Options Strategy & Payoff Lab: Sensibull-inspired multi-leg strategy builder, Black-Scholes valuation engine, and live payoff analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
